@@ -1,0 +1,51 @@
+project:
+  type: website
+
+website:
+  title: "Data Analysis Methods"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Methods"
+        menu:
+      - text: "Parametric Tests (e.g., t-Tests, ANOVA)"
+        href: parametric_tests_e_g_t_tests_anova.qmd
+      - text: "2. Non-Parametric Tests"
+        href: 2_non_parametric_tests.qmd
+      - text: "7. Advanced and Specialized Tests"
+        href: 7_advanced_and_specialized_tests.qmd
+      - text: "1. Descriptive Statistics"
+        href: 1_descriptive_statistics.qmd
+      - text: "2. Exploratory Data Analysis (EDA)"
+        href: 2_exploratory_data_analysis_eda.qmd
+      - text: "3. Hypothesis Testing and Inferential Statistics"
+        href: 3_hypothesis_testing_and_inferential_statistics.qmd
+      - text: "4. Regression analysis"
+        href: 4_regression_analysis.qmd
+      - text: "5. Cluster analysis"
+        href: 5_cluster_analysis.qmd
+      - text: "6. Correlation analysis"
+        href: 6_correlation_analysis.qmd
+      - text: "7. Time series analysis"
+        href: 7_time_series_analysis.qmd
+      - text: "8. Spatial Data Analysis"
+        href: 8_spatial_data_analysis.qmd
+      - text: "9. Survival analysis"
+        href: 9_survival_analysis.qmd
+      - text: "10. Reliability Analysis"
+        href: 10_reliability_analysis.qmd
+      - text: "11. Factor Analysis"
+        href: 11_factor_analysis.qmd
+      - text: "12. Principal Component Analysis"
+        href: 12_principal_component_analysis.qmd
+      - text: "13. Decision Tree Analysis"
+        href: 13_decision_tree_analysis.qmd
+      - text: "14. ROC analysis"
+        href: 14_roc_analysis.qmd
+      - text: "15. Discriminant Analysis"
+        href: 15_discriminant_analysis.qmd
+      - text: "16. Contingency Table Analysis"
+        href: 16_contingency_table_analysis.qmd
+      - text: "17. Correspondence Analysis"
+        href: 17_correspondence_analysis.qmd
