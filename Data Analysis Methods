@@ -1,0 +1,4 @@
+Statistical Tests: Including parametric (e.g., t-tests, ANOVA), non-parametric (e.g., Mann-Whitney U, Kruskal-Wallis), tests for categorical data (e.g., Chi-square, Fisher’s Exact), correlation (e.g., Pearson, Spearman), regression (linear, logistic), and tests for variance and normality.
+Descriptive and Exploratory Analysis: Techniques for summarizing data, visualizing distributions, and identifying patterns.
+Inferential Statistics: Methods for hypothesis testing and parameter estimation.
+Advanced Analyses: Including cluster analysis, time series, spatial data analysis, survival analysis, reliability analysis, factor analysis, PCA, decision trees, ROC analysis, discriminant analysis, contingency tables, and correspondence analysis.
